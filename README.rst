@@ -35,7 +35,7 @@ Installation
 ============
 You will need conda to install OpenAlea. Instruction for installing it can be found in the `miniconda website <https://conda.io/miniconda.html>`_.
 
-Then you will need a consoelor a terminal to install the packages you want to use ::
+Then you will need a console or a terminal to install the packages you want to use ::
 
     conda create -n openalea -c openalea3 -c conda-forge openalea.[package_name]
 
